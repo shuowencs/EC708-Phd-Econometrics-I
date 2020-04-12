@@ -6,4 +6,5 @@ TA session materials
 3. GMM
 4. Linear Panel
 5. Numerical Optimization
-6. Heckman Selection and Probit
+6. Heckman Selection and Multinomial Probit
+7. Dynamic Linear Panel
