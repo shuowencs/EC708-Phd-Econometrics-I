@@ -8,3 +8,4 @@ TA session materials
 5. Numerical Optimization
 6. Heckman Selection and Multinomial Probit
 7. Dynamic Linear Panel
+8. Trinity of Tests
