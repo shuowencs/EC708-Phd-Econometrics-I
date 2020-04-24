@@ -9,3 +9,4 @@ TA session materials
 6. Heckman Selection and Multinomial Probit
 7. Dynamic Linear Panel
 8. Trinity of Tests
+9. Semi/Nonparametric Introduction and ARMA Review
